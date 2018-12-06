@@ -1,0 +1,16 @@
+body{
+	background: #fff;
+	text-align: center;
+}
+
+a{
+	/* text-decoration:none;
+	color:#000; */
+}
+
+ul{
+	margin-top:10%;
+}
+li{
+	list-style: none;
+}
